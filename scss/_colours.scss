@@ -1,0 +1,8 @@
+$colours: (
+  "prim": rgb(109, 109, 133),
+  "secu": rgb(34, 25, 25),
+);
+
+@function getColours($colour) {
+  @return map-get($colours, $colour);
+}

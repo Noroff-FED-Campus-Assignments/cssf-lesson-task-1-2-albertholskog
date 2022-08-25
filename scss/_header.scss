@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  padding: 0 2em;
+  background-color: getColours(prim);
+
+  &__div {
+    font-size: 1.5rem;
+  }
+  &__item {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+    color: getColours(secu);
+    font-size: 1rem;
+  }
+}
