@@ -31,4 +31,17 @@
   align-items: center;
   margin-top: 50px;
   gap: 2em;
+}
+
+footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(109, 109, 133);
+  margin-top: 50px;
+}
+footer p {
+  color: rgb(34, 25, 25);
+  font-size: 2rem;
 }/*# sourceMappingURL=style.css.map */
