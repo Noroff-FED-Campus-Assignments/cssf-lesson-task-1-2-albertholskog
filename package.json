@@ -1,0 +1,30 @@
+{
+  "name": "cssf-lesson-task-1-2-albertholskog",
+  "version": "1.0.0",
+  "description": "Start with the page created in the [Bootstrap introduction](/css-frameworks/module-1/intro-to-bootstrap). Design a theme adjustment that adds custom details to the basic Bootstrap theme. For example, a dark mode theme or a contrasting colour scheme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FED-Campus-Assignments/cssf-lesson-task-1-2-albertholskog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FED-Campus-Assignments/cssf-lesson-task-1-2-albertholskog/issues"
+  },
+  "homepage": "https://github.com/Noroff-FED-Campus-Assignments/cssf-lesson-task-1-2-albertholskog#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "live-server": "^1.2.2",
+    "sass": "^1.54.5"
+  }
+}
+
+ 
